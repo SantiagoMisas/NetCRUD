@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\Migrations\\20240531052513_AddingAlbumArtistBridges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NetCrud\\Data\\Migrations\\20240531052513_AddingAlbumArtistBridges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\models\\artistalbumbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\models\\artistalbumbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +55,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240531052513_AddingAlbumArtistBridges.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\Migrations\\20240531052513_AddingAlbumArtistBridges.cs",
+              "RelativeDocumentMoniker": "NetCrud\\Data\\Migrations\\20240531052513_AddingAlbumArtistBridges.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\Migrations\\20240531052513_AddingAlbumArtistBridges.cs",
+              "RelativeToolTip": "NetCrud\\Data\\Migrations\\20240531052513_AddingAlbumArtistBridges.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:25:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "NetCrud\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Models\\Artist.cs",
+              "RelativeToolTip": "NetCrud\\Models\\Artist.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:00:00.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtistAlbumBridge.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Models\\ArtistAlbumBridge.cs",
+              "RelativeDocumentMoniker": "NetCrud\\Models\\ArtistAlbumBridge.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Models\\ArtistAlbumBridge.cs",
+              "RelativeToolTip": "NetCrud\\Models\\ArtistAlbumBridge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:57:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "NetCrud\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Models\\Album.cs",
+              "RelativeToolTip": "NetCrud\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApplicationDb.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\ApplicationDb.cs",
               "RelativeDocumentMoniker": "NetCrud\\Data\\ApplicationDb.cs",
               "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\ApplicationDb.cs",
               "RelativeToolTip": "NetCrud\\Data\\ApplicationDb.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T04:32:51.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ArtistController.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Controllers\\ArtistController.cs",
               "RelativeDocumentMoniker": "NetCrud\\Controllers\\ArtistController.cs",

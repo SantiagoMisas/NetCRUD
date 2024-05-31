@@ -17,5 +17,7 @@ namespace NetCrud.Models
         public int GenreId { get; set; }
 
         public Genre Genre { get; set; }
+
+        public ICollection<ArtistAlbumBridge> Albums { get; set; }
     }
 }
