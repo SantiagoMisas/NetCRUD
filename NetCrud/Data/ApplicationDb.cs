@@ -15,6 +15,8 @@ namespace NetCrud.Data
     
     public DbSet<Artist> Artists { get; set; }
 
+    public DbSet<Album> Albums { get; set; }
+
     public DbSet<ArtistAlbumBridge> ArtistAlbumBridges { get; set; }
 
 
