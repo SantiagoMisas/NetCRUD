@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\dtos\\genreaddeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\dtos\\genreaddeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|c:\\users\\santiago misas\\documents\\developer\\soundcanvas\\netcrud\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8EFAE1-36ED-4632-8638-29E112103460}|NetCrud\\NetCrud.csproj|solutionrelative:netcrud\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenreAddEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Dtos\\GenreAddEditDto.cs",
-              "RelativeDocumentMoniker": "NetCrud\\Dtos\\GenreAddEditDto.cs",
-              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Dtos\\GenreAddEditDto.cs",
-              "RelativeToolTip": "NetCrud\\Dtos\\GenreAddEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T22:09:00.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenreDto.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Dtos\\GenreDto.cs",
-              "RelativeDocumentMoniker": "NetCrud\\Dtos\\GenreDto.cs",
-              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Dtos\\GenreDto.cs",
-              "RelativeToolTip": "NetCrud\\Dtos\\GenreDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T21:47:22.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenreController.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Controllers\\GenreController.cs",
-              "RelativeDocumentMoniker": "NetCrud\\Controllers\\GenreController.cs",
-              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Controllers\\GenreController.cs",
-              "RelativeToolTip": "NetCrud\\Controllers\\GenreController.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAkwIwAAAAAAAAA",
+              "Title": "ApplicationDb.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\ApplicationDb.cs",
+              "RelativeDocumentMoniker": "NetCrud\\Data\\ApplicationDb.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Data\\ApplicationDb.cs",
+              "RelativeToolTip": "NetCrud\\Data\\ApplicationDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:52:49.138Z",
+              "WhenOpened": "2024-05-31T04:32:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "NetCrud\\Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\SoundCanvas\\NetCrud\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "NetCrud\\Controllers\\ArtistController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:51:23.045Z",
               "EditorCaption": ""
             }
           ]

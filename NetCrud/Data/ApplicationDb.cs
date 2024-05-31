@@ -12,7 +12,9 @@ namespace NetCrud.Data
 
 
     public DbSet<Genre> Genres { get; set; }
-            
+    
+    public DbSet<Artist> Artists { get; set; }
+           
         
     }
 }

@@ -107,9 +107,9 @@ namespace NetCrud.Controllers
                 return BadRequest("Revisar la peticion");
             }
 
-            var fetchGenre = _db.Genres.Find(id);
+            var fetchedGenre = _db.Genres.Find(id);
 
-            if (fetchGenre == null)
+            if (fetchedGenre == null)
             {
                 return NotFound($"Genero no encontrado con el id {id}.");
             }
@@ -121,7 +121,7 @@ namespace NetCrud.Controllers
             try
             {
 
-                fetchGenre.Name = model.Name.ToLower();
+                fetchedGenre.Name = model.Name.ToLower();
                 _db.SaveChanges();
 
                 return Ok("Genero Actualizado");

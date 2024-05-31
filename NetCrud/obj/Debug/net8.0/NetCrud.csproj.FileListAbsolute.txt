@@ -129,3 +129,4 @@ C:\Users\Santiago Misas\Documents\Developer\SoundCanvas\NetCrud\obj\Debug\net8.0
 C:\Users\Santiago Misas\Documents\Developer\SoundCanvas\NetCrud\obj\Debug\net8.0\NetCrud.pdb
 C:\Users\Santiago Misas\Documents\Developer\SoundCanvas\NetCrud\obj\Debug\net8.0\NetCrud.genruntimeconfig.cache
 C:\Users\Santiago Misas\Documents\Developer\SoundCanvas\NetCrud\obj\Debug\net8.0\ref\NetCrud.dll
+C:\Users\Santiago Misas\Documents\Developer\SoundCanvas\NetCrud\obj\Debug\net8.0\NetCrud.sourcelink.json

@@ -8,5 +8,7 @@ namespace NetCrud.Models
 
         [Required]
         public string Name { get; set; }
+
+        public ICollection<Artist> Artists { get; set; }
     }
 }
